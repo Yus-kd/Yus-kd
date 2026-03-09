@@ -1,93 +1,49 @@
-
-[README.md](https://github.com/user-attachments/files/25851724/README.md)
+[README.md](https://github.com/user-attachments/files/25851816/README.md)
 <div align="center">
 
-# 👾 Yus-kd
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;Python+apprentice+%F0%9F%90%8D;Building+from+zero+%F0%9F%94%A5;One+bug+at+a+time+%F0%9F%90%9B;Let%27s+gooo+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Yus-kd&style=for-the-badge&color=a78bfa&labelColor=0d0d0d)
-[![GitHub followers](https://img.shields.io/github/followers/Yus-kd?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&logo=github)](https://github.com/Yus-kd)
-
-</div>
-
----
-
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```python
-class Yus:
-
-    def __init__(self):
-        self.name       = "Yus-kd"
-        self.role       = "Future dev 🚀"
-        self.language   = ["Python 🐍"]
-        self.status     = "Learning every day 📚"
-        self.sleep      = False  # always grinding
-
-    def say_hi(self):
-        print("Thanks for dropping by!")
-        print("Let's build something cool 🔥")
-
-me = Yus()
-me.say_hi()
+```
+██╗   ██╗██╗   ██╗███████╗      ██╗  ██╗██████╗
+╚██╗ ██╔╝██║   ██║██╔════╝      ██║ ██╔╝██╔══██╗
+ ╚████╔╝ ██║   ██║███████╗█████╗█████╔╝ ██║  ██║
+  ╚██╔╝  ██║   ██║╚════██║╚════╝██╔═██╗ ██║  ██║
+   ██║   ╚██████╔╝███████║      ██║  ██╗██████╔╝
+   ╚═╝    ╚═════╝ ╚══════╝      ╚═╝  ╚═╝╚═════╝
 ```
 
-<br clear="right"/>
-
----
-
-<div align="center">
-
-## ⚡ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=a78bfa)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=a78bfa)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=a78bfa)
+*Passionné par le développement*
 
 </div>
 
 ---
 
-<div align="center">
+### À propos
 
-## 📊 GitHub Stats
+Développeur web avec une appétence pour le code propre et les interfaces soignées.  
+J'aime construire des choses qui fonctionnent — simplement, efficacement.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yus-kd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yus-kd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
+### Stack
 
-</div>
+![HTML](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
+
+---
+
+### Contact
+
+Tu as un projet, une question, ou juste envie d'échanger ?
+
+[![GitHub](https://img.shields.io/badge/-Yus--kd-000?style=flat-square&logo=github)](https://github.com/Yus-kd)
 
 ---
 
 <div align="center">
-
-## 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=Yus-kd&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Trophées
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yus-kd&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Every expert was once a beginner"* 🌱
-
-**made with 💜 and way too much caffeine — Yus-kd**
-
+  <sub>— Keep it simple, make it work —</sub>
 </div>
