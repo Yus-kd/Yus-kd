@@ -1,32 +1,35 @@
+
+[README.md](https://github.com/user-attachments/files/25851724/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=YUS&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=< code  />&descAlignY=60&descAlign=50&descSize=20&descColor=a78bfa"/>
+# 👾 Yus-kd
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;Python+apprentice+%F0%9F%90%8D;Building+from+zero+%F0%9F%94%A5;One+bug+at+a+time+%F0%9F%90%9B;Let%27s+gooo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B;Python+apprentice+%F0%9F%90%8D;Building+from+zero+%F0%9F%94%A5;One+bug+at+a+time+%F0%9F%90%9B;Let%27s+gooo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Yus?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&logo=github)](https://github.com/Yus)
-![Profile views](https://komarev.com/ghpvc/?username=Yus&style=for-the-badge&color=a78bfa&labelColor=0d0d0d)
+![Profile views](https://komarev.com/ghpvc/?username=Yus-kd&style=for-the-badge&color=a78bfa&labelColor=0d0d0d)
+[![GitHub followers](https://img.shields.io/github/followers/Yus-kd?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&logo=github)](https://github.com/Yus-kd)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 class Yus:
 
     def __init__(self):
-        self.name       = "Yus"
+        self.name       = "Yus-kd"
         self.role       = "Future dev 🚀"
         self.language   = ["Python 🐍"]
         self.status     = "Learning every day 📚"
         self.sleep      = False  # always grinding
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool 🔥")
+        print("Thanks for dropping by!")
+        print("Let's build something cool 🔥")
 
 me = Yus()
 me.say_hi()
@@ -53,12 +56,9 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yus&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yus&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yus-kd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yus&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yus-kd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
@@ -66,13 +66,9 @@ me.say_hi()
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🔥 Streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yus/Yus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yus/Yus/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yus/Yus/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://streak-stats.demolab.com?user=Yus-kd&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
 
 </div>
 
@@ -80,9 +76,9 @@ me.say_hi()
 
 <div align="center">
 
-## 💬 Quote of the day
+## 🏆 Trophées
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+time+to+start+was+yesterday.+The+second+best+time+is+now.&author=Anonymous)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://github-profile-trophy.vercel.app/?username=Yus-kd&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10"/>
 
 </div>
 
@@ -90,15 +86,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+*"Every expert was once a beginner"* 🌱
 
-**made with 💜 and way too much caffeine**
+**made with 💜 and way too much caffeine — Yus-kd**
 
 </div>
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
